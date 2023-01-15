@@ -1,0 +1,18 @@
+.NavLen {
+  height: 60px;
+  background-color: rgba(0, 0, 0, 1);
+  /* background-color: black; */
+  /* border-bottom: 5px solid rgba(58, 63, 65, 1); */
+}
+.Search {
+  padding: 5px 70px 5px 10px;
+  background-color: rgba(58, 63, 65, 1);
+  border: 1px solid rgba(58, 63, 65, 1);
+  /* background-color: grey; */
+}
+.Search:focus {
+  border: none !important;
+}
+.Icon {
+  color: white;
+}

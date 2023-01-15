@@ -1,0 +1,14 @@
+.Height {
+  position: absolute;
+  margin-top: 70px;
+  max-width: 500px;
+  left: 340px;
+  padding: 15px 15px 15px 15px;
+  overflow: hidden;
+  border-radius: 7px;
+}
+.Border {
+  border-width: 3px;
+  border-style: solid;
+  border-image: linear-gradient(to right, darkblue, darkorchid) 1;
+}
